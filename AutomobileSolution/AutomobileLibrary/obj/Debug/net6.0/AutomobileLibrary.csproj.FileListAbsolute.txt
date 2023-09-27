@@ -1,0 +1,70 @@
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+D:\Ky 7 SUMMER23\1_PRN221\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+C:\Users\nguye\Desktop\PRN211_AutomobileSolution\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+C:\Users\nguye\Desktop\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
