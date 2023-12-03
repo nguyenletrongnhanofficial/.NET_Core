@@ -4,18 +4,18 @@
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
-    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">D:\01_Docs\FPT_University\CN8\PRN231\Assignments\Assignment03Solution_SE151004\eStore\obj\.store\.stage\rp4px4ur.nvl</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">D:\01_Docs\FPT_University\CN8\PRN231\Assignments\Assignment03Solution_SE151004\eStore\obj\.store\.stage\rp4px4ur.nvl</NuGetPackageFolders>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">D:\01_Docs\FPT_University\CN8\PRN231\Assignments\Assignment03Solution_20521699\eStore\obj\.store\.stage\rp4px4ur.nvl</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">D:\01_Docs\FPT_University\CN8\PRN231\Assignments\Assignment03Solution_20521699\eStore\obj\.store\.stage\rp4px4ur.nvl</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="D:\01_Docs\FPT_University\CN8\PRN231\Assignments\Assignment03Solution_SE151004\eStore\obj\.store\.stage\rp4px4ur.nvl\" />
+    <SourceRoot Include="D:\01_Docs\FPT_University\CN8\PRN231\Assignments\Assignment03Solution_20521699\eStore\obj\.store\.stage\rp4px4ur.nvl\" />
   </ItemGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">D:\01_Docs\FPT_University\CN8\PRN231\Assignments\Assignment03Solution_SE151004\eStore\obj\.store\.stage\rp4px4ur.nvl\dotnet-aspnet-codegenerator\5.0.2</Pkgdotnet-aspnet-codegenerator>
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">D:\01_Docs\FPT_University\CN8\PRN231\Assignments\Assignment03Solution_20521699\eStore\obj\.store\.stage\rp4px4ur.nvl\dotnet-aspnet-codegenerator\5.0.2</Pkgdotnet-aspnet-codegenerator>
   </PropertyGroup>
 </Project>

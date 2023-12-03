@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "YuepzRTRKlb+Qqco4fKW/YlKeOpXh3wrBLT+MdWVG+mVCBNLZDn61PuaOfvrI5Htx4TvdcBeAO0t7gfFI0R1Sg==",
   "success": true,
-  "projectFilePath": "D:\\01_Docs\\FPT_University\\CN8\\PRN231\\Assignments\\Assignment03Solution_SE151004\\eStoreAPI\\eStoreAPI.csproj",
+  "projectFilePath": "D:\\01_Docs\\FPT_University\\CN8\\PRN231\\Assignments\\Assignment03Solution_20521699\\eStoreAPI\\eStoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
