@@ -19,4 +19,4 @@ To make the most out of this repository, navigate through the folders to find th
 This repository is maintained by Nguyen Le Trong Nhan. We welcome contributions and suggestions to improve the quality of this educational resource. Please follow the contributing guidelines outlined in CONTRIBUTING.md.
 
 ## Contact
-For any inquiries regarding this repository, please contact [[Facebook](https://www.facebook.com/nguyenletrongnhanofficial)https://www.facebook.com/nguyenletrongnhanofficial].
+For any inquiries regarding this repository, please contact [[Facebook](https://www.facebook.com/nguyenletrongnhanofficial)].
